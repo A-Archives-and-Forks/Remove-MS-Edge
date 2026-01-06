@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-- OS: [Windows 10/11]
- - Bit: [32/64]
- - Edition: [Home, LTSC, Pro]
- - Remover: [Batch/Exe]
+- OS: [Windows 10/11]  
+ - Bit: [32/64]  
+ - Edition: [Home, LTSC, Pro]  
+ - Remover: [Batch/Exe]  
  - Did you try removing Edge prior to this: [Yes/No]
